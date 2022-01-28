@@ -1,6 +1,7 @@
 # SantasAbduction
 My first game made in Unity, scripts written in C#. 
-This is a top down stealth game in which the object of each level is to sneak Santa away from his alien captures! 
+This is a top down stealth game in which the object of each level is to sneak Santa away from his alien captures!
+The app is localised and available in 10 different languages!
 I drew the tiles and tilemaps myself using Aseprite.
 The app includes interstitial and rewarded ads (ad ID’s etc were removed for posting here)
 The app is available for both Android and iOS,
