@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 75048e1523b0e4636b5649cbc34f0689
+  m_Entries:
+  - m_Id: 12577660928
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1640022138880
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20200689754112
+    m_Key: Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42096193953792
+    m_Key: Level Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46532702232576
+    m_Key: Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94861725261824
+    m_Key: Skip Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305591120551936
+    m_Key: Success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308256542023680
+    m_Key: Caught
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310433968807936
+    m_Key: Watch Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311332023820288
+    m_Key: Internet Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341030443409408
+    m_Key: Video Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341756838141952
+    m_Key: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2532754272018432
+    m_Key: Congrats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2533087643688960
+    m_Key: StageTwo
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1617882462125
